@@ -1,0 +1,7 @@
+서버
+- gcc BINGO_SERVER -D_REENTRANT -o bs -lpthread
+- ./bs [ Port 번호 ]
+
+클라이언트
+- gcc BINGO_CLIENT -D_REENTRANT -o bc -lpthread
+- ./bc [ IP 주소 ] [ Port 번호 ] [ 가위바위보 수 ] [ 원하는 항목 ] [ 접속 유저 네임 ]
