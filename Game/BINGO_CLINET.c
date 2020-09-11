@@ -1,4 +1,4 @@
-//클라
+//클라이
 
 #include <stdio.h> 
 #include <stdlib.h> 
